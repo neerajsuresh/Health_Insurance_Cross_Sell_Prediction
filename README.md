@@ -35,4 +35,5 @@ The dataset contains information about demographics, vehicle details, and policy
 | Response (target variable)  | (dichotomous) | 1: Customer is interested, 0: Customer is not interested.                                 |
 
 ## Conclusion
+The project started with Exploratory Data Analysis (EDA), extracting insights from the dataset. Addressing imbalanced classes, we selected features and algorithms, testing different models for accuracy.
 The project successfully demonstrates the potential of predictive modeling in identifying potential customers for vehicle insurance. 
