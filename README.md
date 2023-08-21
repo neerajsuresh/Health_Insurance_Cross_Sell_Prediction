@@ -36,6 +36,10 @@ LabelEncoder for encoding categorical features.
 MinMaxScaler for feature scaling.
 
 SMOTE for addressing class imbalance.
+## Challenges Faced
+Handling Large dataset.
+Addressing potential class imbalance in target features.
+Selecting the appropriate algorithm for modeling.
 
 ## Conclusion
 The project started with Exploratory Data Analysis (EDA), extracting insights from the dataset. Addressing imbalanced classes, we selected features and algorithms, testing different models for accuracy.
