@@ -38,7 +38,9 @@ MinMaxScaler for feature scaling.
 SMOTE for addressing class imbalance.
 ## Challenges Faced
 Handling Large dataset.
+
 Addressing potential class imbalance in target features.
+
 Selecting the appropriate algorithm for modeling.
 
 ## Conclusion
